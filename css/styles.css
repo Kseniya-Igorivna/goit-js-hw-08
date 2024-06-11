@@ -8,7 +8,7 @@ margin: 0;
 }
 
 .gallery-item {
-flex-basis: calc((100% - 40px) / 5);
+flex-basis: calc((100% - 24px) / 3);
 }
 
 .gallery-link {
